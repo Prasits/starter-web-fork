@@ -2,4 +2,7 @@
 End of First para
 
 Echo park subway tile art party tbh. Tousled snackwave iceland, cornhole etsy locavore church-key before they sold out raw denim swag iPhone master cleanse next level taxidermy schlitz. Squid snackwave raw denim pitchfork leggings tacos celiac. Whatever cold-pressed vegan edison bulb cray tonx. Kombucha adaptogen mukbang fit humblebrag marfa literally crucifix cloud bread biodiesel taxidermy hexagon sustainable tbh.
+adding for working directory.
+Adding for Staging
+Adding directly using commit -am
 
