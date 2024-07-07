@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+Changes in master branch
 # THANKS
 
     <name>
