@@ -14,3 +14,4 @@ Chnage from feature one branch
 changes before stash
 
 Changes after Stash
+changes with untrack
