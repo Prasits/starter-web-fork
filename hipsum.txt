@@ -17,3 +17,4 @@ Changes after Stash
 changes with untrack
 sdfjhsjfh
 Changes after stash
+Change -1 for multiple stash
